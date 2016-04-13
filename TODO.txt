@@ -1,0 +1,9 @@
+
+
+
+
+
+
+	Code used:
+CSS reset sheet - http://meyerweb.com/eric/tools/css/reset/
+Animation frame polyfill - http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/
