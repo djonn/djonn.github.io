@@ -1,12 +1,14 @@
 body{
 	height:100%;
 	width:100%;
-	background: #000;
+	
+	background: rgb(240, 240, 240);
 }
 
 .content{
-	width: 640px;
-	height: 636px;
+	width: 800px;
+	height: 100%;
+	
 	
 	margin: auto;
 	position: absolute;
@@ -16,19 +18,23 @@ body{
 	right: 0;
 }
 
-canvas{
-	border: 1px solid #fff;
-	background: #111;
+header{
+	background: url("logo.png") no-repeat center;
+	
+	width: 100%;
+	height: 400px;
+		
+	margin-top: 150px;
+	margin-bottom: 150px;
 }
 
-.info{
+.p{
 	width: 100%;
-	height: 60px;
 	
-	color: white;
-	text-align: center;
-	line-height: 18px;
-	font-family: 'Press Start 2P', cursive;
-	font-size: 8px;
-	
+}
+
+.p p {
+	width: 200px;
+	height: 200px;
+	float: left;
 }

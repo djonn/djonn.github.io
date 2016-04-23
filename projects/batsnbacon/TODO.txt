@@ -1,0 +1,31 @@
+
+V-collision be fucked
+X-use spritesheet instead of lots of pics
+V-world collision data for player collision with other than 1
+V-more tiles
+V-bats
+V-bats kill humans
+V-bacon!!!!
+-border trees, check all 8 sides
+-real bacon! used own coords instead of bats'
+
+
+-pause doesnt work, bats keep moving just not drawing
+-menu?
+V-used tiled tile editor?
+V[for grass generation]-make procedural?
+
+
+
+
+
+
+
+
+
+	Code used:
+CSS reset sheet - http://meyerweb.com/eric/tools/css/reset/
+Animation frame polyfill - http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/
+
+	Assets used:
+Dark 8bit song - http://opengameart.org/content/dark-8bit-song

@@ -1,0 +1,25 @@
+body{
+	height:100%;
+	width:100%;
+	
+	background: rgb(240, 240, 240);
+}
+
+.content{
+	width: 800px;
+	height: 264px;
+	
+	
+	margin: auto;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	top: 0;
+	right: 0;
+}
+
+.p p {
+	width: 33%;
+	height: 264px;
+	float: left;
+}
